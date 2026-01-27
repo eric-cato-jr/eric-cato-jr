@@ -11,21 +11,17 @@ My technical skill set continues to grow across multiple areas, including networ
 This GitHub serves as a professional portfolio showcasing my cybersecurity labs, IT projects, cloud-based experiments, and technical documentation. I’m eager to connect with professionals and organizations focused on strengthening their security posture and building resilient digital environments through thoughtful, proactive security practices.
 
 ## 🛡️ Cybersecurity Labs
-- 🔐 [Cybersecurity Labs](https://github.com/eric-cato-jr/cybersecurity-labs)
 
 ---
 
 ## 🖥️ Active Directory Labs
-- 🧑‍💼 [Active Directory Labs](https://github.com/eric-cato-jr/active-directory-labs)
 
 ---
 
 ## 💻 Programming Projects
-- 🧠 [Programming Projects](https://github.com/eric-cato-jr/programming-projects)
 
 ---
 
 ## 🗄️ Database Projects
-- 📊 [Database Projects](https://github.com/eric-cato-jr/database-projects)
 
 ---
