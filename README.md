@@ -10,40 +10,22 @@ My technical skill set continues to grow across multiple areas, including networ
 
 This GitHub serves as a professional portfolio showcasing my cybersecurity labs, IT projects, cloud-based experiments, and technical documentation. I’m eager to connect with professionals and organizations focused on strengthening their security posture and building resilient digital environments through thoughtful, proactive security practices.
 
----
-
 ## 🛡️ Cybersecurity Labs
-
-Hands-on labs and coursework projects focused on defensive cybersecurity concepts, including network security, digital forensics, security monitoring, and incident analysis.
-
-- 🔐 **Cybersecurity Labs Repository**  
-  https://github.com/eric-cato-jr/cybersecurity-labs
+- 🔐 [Cybersecurity Labs](https://github.com/eric-cato-jr/cybersecurity-labs)
 
 ---
 
 ## 🖥️ Active Directory Labs
-
-Projects focused on Windows Server and Active Directory administration, identity management, authentication, permissions, and enterprise IT environments.
-
-- 🧑‍💼 **Active Directory Labs Repository**  
-  https://github.com/eric-cato-jr/active-directory-labs
+- 🧑‍💼 [Active Directory Labs](https://github.com/eric-cato-jr/active-directory-labs)
 
 ---
 
 ## 💻 Programming Projects
-
-Programming projects and exercises focused on building foundational coding and automation skills relevant to IT and cybersecurity.
-
-- 🧠 **Programming Projects Repository**  
-  https://github.com/eric-cato-jr/programming-projects
+- 🧠 [Programming Projects](https://github.com/eric-cato-jr/programming-projects)
 
 ---
 
 ## 🗄️ Database Projects
-
-Database and SQL-focused projects covering schema design, ERDs, query development, and database security concepts.
-
-- 📊 **Database Projects Repository**  
-  https://github.com/eric-cato-jr/database-projects
+- 📊 [Database Projects](https://github.com/eric-cato-jr/database-projects)
 
 ---
