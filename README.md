@@ -16,7 +16,8 @@ I hold industry-recognized certifications including CompTIA Security+, CompTIA N
 ## 💻 Programming Projects
 ### C#
 
-- **[CSharp-Temperature-Analyzer](https://github.com/eric-cato-jr/CSharp-Temperature-Analyzer)**  
+- **[CSharp-Temperature-Analyzer](https://github.com/eric-cato-jr/CSharp-Temperature-Analyzer)**
+- **[Catering-Discount-Calculator](https://github.com/eric-cato-jr/Catering-Discount-Calculator)**
  
 ## 🗄️ Database Projects
 
