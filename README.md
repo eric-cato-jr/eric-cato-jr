@@ -22,4 +22,6 @@ I hold industry-recognized certifications including CompTIA Security+, CompTIA N
  
 ## 🗄️ Database Projects
 - **[GenAI SQL Code Improvement](https://github.com/eric-cato-jr/AI-Sql-Code-)**
+- **[Pets4Life System Design](https://github.com/eric-cato-jr/Pets4Life-System-Design)**
+
 
