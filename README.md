@@ -18,6 +18,8 @@ I hold industry-recognized certifications including CompTIA Security+, CompTIA N
 
 - **[CSharp-Temperature-Analyzer](https://github.com/eric-cato-jr/CSharp-Temperature-Analyzer)**
 - **[Catering Discount Calculator](https://github.com/eric-cato-jr/Catering-Discount-Calculator)**
+- **[Admission Generator](https://github.com/eric-cato-jr/Admission-Generator)**
+
 
  
 ## 🗄️ Database Projects
