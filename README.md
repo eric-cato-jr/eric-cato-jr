@@ -17,7 +17,7 @@ This GitHub serves as a professional portfolio showcasing my cybersecurity labs,
 
 
 ## 💻 Programming Projects
-Csharp-Temperature-Analyzer
+
 
 ## 🗄️ Database Projects
 
