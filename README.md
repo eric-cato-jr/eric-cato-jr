@@ -17,6 +17,10 @@ This GitHub serves as a professional portfolio showcasing my cybersecurity labs,
 
 
 ## 💻 Programming Projects
+### C#
+
+- **[CSharp-Temperature-Analyzer](https://github.com/eric-cato-jr/CSharp-Temperature-Analyzer)**  
+  Console-based C# application that validates user input and calculates average daily temperatures using a sentinel value.
 
 
 ## 🗄️ Database Projects
