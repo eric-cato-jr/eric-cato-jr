@@ -10,7 +10,7 @@ I hold industry-recognized certifications including CompTIA Security+, CompTIA N
 ## 🛡️ Cybersecurity Labs
 
 
-## 🖥️ Active Directory Labs
+## 🖥️ IT Labs
 
 
 ## 💻 Programming Projects
