@@ -16,7 +16,7 @@ This GitHub serves as my professional portfolio, showcasing cybersecurity labs, 
 - **[Blue Team Incident Response & Remediation Lab](https://github.com/eric-cato-jr/Blue-Team-Incident-Response-Remediation-Lab)**
 ---
 
-## 🖥️ IT Labs
+## 🖥️ Enterprise Infrastructure & Administration
 
 *(Active Directory, Windows Server, and infrastructure labs coming soon.)*
 
