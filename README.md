@@ -13,7 +13,7 @@ This GitHub serves as my professional portfolio, showcasing cybersecurity labs, 
 ## 🛡️ Cybersecurity Labs
 
 - **[Firewall Penetration Test & Attack Surface Reduction](https://github.com/eric-cato-jr/Firewall-Penetration-Test)**
-
+- **[Blue Team Incident Response & Remediation Lab](https://github.com/eric-cato-jr/Blue-Team-Incident-Response-Remediation-Lab)**
 ---
 
 ## 🖥️ IT Labs
