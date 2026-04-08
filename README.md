@@ -14,6 +14,7 @@ This GitHub serves as my professional portfolio, showcasing cybersecurity labs, 
 
 - **[Firewall Penetration Test & Attack Surface Reduction](https://github.com/eric-cato-jr/Firewall-Penetration-Test)**
 - **[Blue Team Incident Response & Remediation Lab](https://github.com/eric-cato-jr/Blue-Team-Incident-Response-Remediation-Lab)**
+- **[Azure Honeypot – Cloud SIEM Attack Monitoring](https://github.com/eric-cato-jr/HoneyPot)**
 ---
 
 ## 🖥️ Enterprise Infrastructure & Administration
