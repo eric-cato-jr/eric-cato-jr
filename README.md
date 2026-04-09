@@ -4,7 +4,7 @@ I’m driven by a strong interest in cybersecurity and a passion for understandi
 
 I am currently a senior at the University of Louisville pursuing a Bachelor’s degree in Computer Information Systems with concentration tracks in Cybersecurity and Business Process Management. My academic experience has provided a strong foundation in network security, digital forensics, systems analysis, and secure technology design aligned with business processes.
 
-I hold industry-recognized certifications including CompTIA Security+, CompTIA Network+, and Microsoft Azure Fundamentals (AZ-900). I currently work as an IT Support Intern supporting enterprise environments, where I assist with user management, endpoint configuration, system troubleshooting, and infrastructure support.
+I hold industry-recognized certifications including CompTIA Security+, CompTIA Network+, and Microsoft Azure Fundamentals (AZ-900). I am pursuing the ccna to build a solid foundation in computer networking and to understand how data moves across networks and systems. I currently work as an IT Support Intern supporting enterprise environments, where I assist with user management, endpoint configuration, system troubleshooting, and infrastructure support.
 
 This GitHub serves as my professional portfolio, showcasing cybersecurity labs, IT projects, programming work, and technical documentation as I work toward beginning my career as a SOC Analyst and eventually transitioning into cloud security.
 
