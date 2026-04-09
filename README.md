@@ -17,7 +17,7 @@ This GitHub serves as my professional portfolio, showcasing cybersecurity labs, 
 - **[Azure Honeypot – Cloud SIEM Attack Monitoring](https://github.com/eric-cato-jr/HoneyPot)**
 ---
 
-## 🖥️ Enterprise Infrastructure & Administration
+## 🖥️ Enterprise Infrastructure & Networking
 
 - **[Active Directory Home Lab](https://github.com/eric-cato-jr/Active-Directory)**  
  
