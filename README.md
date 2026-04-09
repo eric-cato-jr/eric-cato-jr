@@ -19,8 +19,8 @@ This GitHub serves as my professional portfolio, showcasing cybersecurity labs, 
 
 ## 🖥️ Enterprise Infrastructure & Administration
 
-- **[Active Directory Home Lab](https://github.com/eric-cato-jr/Active-Directory)
-
+- **[Active Directory Home Lab](https://github.com/eric-cato-jr/Active-Directory)**  
+ 
 ---
 
 ## 💻 Programming Projects
