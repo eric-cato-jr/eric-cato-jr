@@ -19,7 +19,7 @@ This GitHub serves as my professional portfolio, showcasing cybersecurity labs, 
 
 ## 🖥️ Enterprise Infrastructure & Administration
 
-*(Active Directory, Windows Server, and infrastructure labs coming soon.)*
+- **[View Full Active Directory Lab](https://github.com/eric-cato-jr/Active-Directory)
 
 ---
 
