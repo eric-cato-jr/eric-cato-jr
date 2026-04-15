@@ -6,7 +6,7 @@ I am currently a senior at the University of Louisville pursuing a Bachelor’s 
 
 I hold industry-recognized certifications including CompTIA Security+, CompTIA Network+, and Microsoft Azure Fundamentals (AZ-900). I am pursuing the ccna to build a solid foundation in computer networking and to understand how data moves across networks and systems. I currently work as an IT Support Intern supporting enterprise environments, where I assist with user management, endpoint configuration, system troubleshooting, and infrastructure support.
 
-This GitHub serves as my professional portfolio, showcasing cybersecurity labs, IT projects, programming work, and technical documentation as I work toward beginning my career as a SOC Analyst and eventually transitioning into cloud security.
+This GitHub serves as my professional portfolio, showcasing cybersecurity labs, IT projects, programming work, and technical documentation as I work toward beginning my career as a cloud security analyst
 
 ---
 
