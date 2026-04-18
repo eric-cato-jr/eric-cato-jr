@@ -33,7 +33,7 @@ This GitHub serves as my professional portfolio, showcasing cybersecurity labs, 
 
 ---
 
-## 🗄️ Database Projects
+## 🗄️ Systems Analysis & Design Projects
 
 - **[GenAI SQL Code Improvement](https://github.com/eric-cato-jr/AI-Sql-Code-)**
 - **[Pets4Life System Design](https://github.com/eric-cato-jr/Pets4Life-System-Design)**
