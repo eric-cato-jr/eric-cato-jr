@@ -2,9 +2,9 @@
 
 I’m driven by a strong interest in cybersecurity and a passion for understanding how systems, networks, and data can be protected against real-world threats. I approach technology as both a problem solver and a continuous learner, blending IT operations, security principles, and business knowledge to build secure and reliable solutions.
 
-I am currently a senior at the University of Louisville pursuing a Bachelor’s degree in Computer Information Systems with concentration tracks in Cybersecurity and Business Process Management. My academic experience has provided a strong foundation in network security, digital forensics, systems analysis, and secure technology design aligned with business processes.
+I am currently a senior at the University of Louisville pursuing a Bachelor’s degree in Computer Information Systems with concentration tracks in Cybersecurity and Business Process Management. My academic experience has provided a strong foundation in network security, systems analysis, and secure technology design aligned with business processes.
 
-I hold industry-recognized certifications including CompTIA Security+, CompTIA Network+, and Microsoft Azure Fundamentals (AZ-900). I am pursuing the ccna to build a solid foundation in computer networking and to understand how data moves across networks and systems. I currently work as an IT Support Intern supporting enterprise environments, where I assist with user management, endpoint configuration, system troubleshooting, and infrastructure support.
+I hold industry-recognized certifications including CompTIA Security+, CompTIA Network+, and Microsoft Azure Fundamentals (AZ-900). I am pursuing the CCNA and AZ-104 to build a solid foundation in computer networking to better understand how data moves across networks and systems. I currently work as an IT Support Intern supporting enterprise environments, where I assist with user management, endpoint configuration, system troubleshooting, and infrastructure support. My long-term goal is work in Cloud Security.
 
 This GitHub serves as my professional portfolio, showcasing cybersecurity labs, IT projects, programming work, and technical documentation as I work toward beginning my career as a cloud security analyst
 
